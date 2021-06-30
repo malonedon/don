@@ -1,1 +1,1 @@
-web: gunicon bot.py
+web: gunicon bot
